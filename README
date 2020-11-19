@@ -1,0 +1,7 @@
+Program generates random passwords with parameters provided by the user
+
+Parameters:
+- Length (6-16 characters)
+- Number of letters
+- Number of symbols ('!', '%', '#', '&', '$', '@')
+- Number of digits
